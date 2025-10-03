@@ -17,8 +17,8 @@ Framework de automatización de pruebas **E2E** desarrollado con **Selenium WebD
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/rodrigoescutia/selenium-automation-framework.git
-cd selenium-automation-framework
+git clone https://github.com/rodrigoescutiarios/Selenium-automatizacion.git
+cd Selenium-automatizacion
 ```
 
 ### 2. Instalar las dependencias
@@ -36,7 +36,7 @@ mvn clean test
 ## 🗂️ Estructura del Proyecto
 
 ```
-selenium-automation-framework/
+Selenium-automatizacion/
 ├── src/
 │   ├── main/java/com/selenium/
 │   │   ├── contants/
@@ -297,7 +297,7 @@ git push origin feature/nueva-funcionalidad
 ## 📧 Soporte
 
 - **Email**: rodrigoingsis@gmail.com
-- **Repositorio**: [selenium-automation-framework](https://github.com/rodrigoescutia/selenium-automation-framework)
+- **Repositorio**: [Selenium-automatizacion](https://github.com/rodrigoescutiarios/Selenium-automatizacion)
 
 ---
 
