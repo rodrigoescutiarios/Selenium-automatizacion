@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>DARK</theme>
+        <encoding>UTF-8</encoding>
+        <protocol>HTTPS</protocol>
+        <documentTitle>Reporte de Automatización - Test QAcademy</documentTitle>
+        <reportName>Reporte de Ejecución de Pruebas</reportName>
+        <reportHeadline>Selenium Framework - Cucumber</reportHeadline>
+        <dateFormat>dd/MM/yyyy</dateFormat>
+        <timeFormat>HH:mm:ss</timeFormat>
+        <scripts>
+            <![CDATA[
+                $(document).ready(function() {
+
+                });
+            ]]>
+        </scripts>
+        <styles>
+            <![CDATA[
+                .brand-logo {
+                    background-color: #1E3A8A;
+                }
+                .nav-wrapper {
+                    background-color: #1E3A8A !important;
+                }
+            ]]>
+        </styles>
+    </configuration>
+</extentreports>

@@ -1,0 +1,3 @@
+com\selenium\runners\TestRunner.class
+com\selenium\hooks\Hooks.class
+com\selenium\stepdefinitions\LoginSteps.class

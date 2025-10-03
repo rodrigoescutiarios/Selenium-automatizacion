@@ -1,0 +1,6 @@
+com\selenium\contants\Urls.class
+com\selenium\utils\DriverManager.class
+com\selenium\pages\LoginPage.class
+com\selenium\utils\BasePage.class
+com\selenium\utils\WordReporter.class
+com\selenium\utils\WordReporter$TestStep.class
